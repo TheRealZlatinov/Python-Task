@@ -8,6 +8,6 @@ Technology used:
  - Chatgpt
 
 How to run the script:
-   1.Put the json file in the current directory of the 
+	1.Put the json file in the current directory of the 
 
    Video Preview
