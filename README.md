@@ -2,13 +2,19 @@
 
 Python script for VERO-Digital-Solutions
 
-Technology used:
- - Python core
- - Python Liberies ()
- - Chatgpt
+Python script read data from JSON, transform it mathematically, and project it as a 3D visualization.
 
-How to run the script:
-	1.Put the json file in the current directory of the 
+
+
+Technology Used:
+
+- NumPy
+
+- Matplotlib
+
+- JSON Parsing
+
+
 
 Video Preview:
 https://github.com/user-attachments/assets/cb1dbdcb-c45e-49bc-9cc7-7075a31d23b0
