@@ -10,6 +10,6 @@ Technology used:
 How to run the script:
 	1.Put the json file in the current directory of the 
 
-<img width="24" height="24" alt="movie_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24" src="https://github.com/user-attachments/assets/ec4aadb1-497e-4e14-89ee-3e82816b96be" /> Video Preview
+<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#1f1f1f"><path d="m160-800 80 160h120l-80-160h80l80 160h120l-80-160h80l80 160h120l-80-160h120q33 0 56.5 23.5T880-720v480q0 33-23.5 56.5T800-160H160q-33 0-56.5-23.5T80-240v-480q0-33 23.5-56.5T160-800Zm0 240v320h640v-320H160Zm0 0v320-320Z"/></svg>  Video Preview
 
 https://github.com/user-attachments/assets/cb1dbdcb-c45e-49bc-9cc7-7075a31d23b0
